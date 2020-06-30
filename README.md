@@ -8,8 +8,6 @@ This is a guide to setup or run the Raid-Signature Cleaner Application on Either
 
 - Login to the machine as administrator
 
-- Password: *Americaneagle#2020*
-
 - Open PowerShell
 
 - Navigate to Desktop Directory where the application resides using the command
@@ -26,9 +24,7 @@ PS C:\Users> .\mega_raid_clearer.ps1
 
 ### On CentOS 6
 
-- Login to the server as root 
-
-- Password: *americaneagle2020*
+- Login to the server as root
 
 - navigate to *root* directory
 
